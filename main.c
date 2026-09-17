@@ -37,6 +37,6 @@ int main() {
 	
 	free(arr);
 	printf("Memoria liberada.\n");
-	
+	printf("Cambio desde zinjal");
 	return 0; // Terminación exitosa del programa
 }
